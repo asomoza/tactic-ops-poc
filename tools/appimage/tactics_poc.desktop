@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Tactics PoC
+Comment=MotionBricks tactics proof of concept
+Exec=tactics_poc
+Icon=tactics_poc
+Categories=Game;StrategyGame;
+Terminal=false

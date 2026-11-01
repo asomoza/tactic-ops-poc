@@ -1,0 +1,36 @@
+# Build output
+build/
+build-appimage/
+
+# Written by the engine at runtime
+log.txt
+screenshots/
+
+# NVIDIA sample clips: evaluation license, not for redistribution; replaced by assets/motions/kimodo/
+assets/motions/soma/
+assets/motions/LICENSE.txt
+assets/motions/README.md
+
+# Editors and tools
+.vscode/
+.vs/
+.idea/
+.cache/
+compile_commands.json
+CMakeUserPresets.json
+*.swp
+
+# Python and Blender (tools/blender)
+__pycache__/
+.ruff_cache/
+*.blend1
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Packaged builds
+dist/
+
+# Notes for the blog post, kept local
+KIMODO_POSES.md
