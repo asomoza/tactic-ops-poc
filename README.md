@@ -1,5 +1,7 @@
 # Tactic Ops: Proof of Concept
 
+https://github.com/user-attachments/assets/01ae6e40-f178-41f2-b0f9-99ae9462fbae
+
 A small tactics game where every move the characters make is created by AI while you play. Instead of playing
 pre-made animations, the game asks an AI model to invent each step, turn, crouch and vault on the spot.
 
