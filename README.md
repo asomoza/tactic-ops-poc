@@ -62,3 +62,8 @@ The soldier takes cover on his own when you move him next to a wall, and vaults 
 **Note:** the game relies on Motion, a private library that is not shared yet, so this code can't be built on its
 own for now. Motion is still in a rough state: it needs a review, documentation and probably a few more features
 before it's ready to share. The ready-to-play download includes everything needed.
+
+## License
+
+The game's code is released under the [Apache 2.0 license](LICENSE). The models, characters, textures and other
+parts keep their own licenses, listed in [LICENSES.md](LICENSES.md).

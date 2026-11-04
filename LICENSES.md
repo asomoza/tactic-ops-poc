@@ -4,6 +4,7 @@ What this game is built from, and under which terms each part is shipped.
 
 | Part | License | Where |
 |---|---|---|
+| The game's code | Apache 2.0 | `LICENSE` |
 | MotionBricks SOMA weights (`models/motionbricks_soma_diffusers`) | NVIDIA Open Model Agreement | `models/motionbricks_soma_diffusers/LICENSE` and `NOTICE` |
 | SOMA skeleton (`soma/soma_skeleton.txt`) and the characters' skin weights | CC BY 4.0, NVIDIA | `assets/character/LICENSE.md` |
 | Characters: MakeHuman body, skin, hair, eyes and clothes | CC0 1.0 | `assets/character/LICENSE.md` |

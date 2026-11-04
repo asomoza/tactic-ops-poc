@@ -69,5 +69,5 @@ install(DIRECTORY "${WICKED_ENGINE_DIR}/WickedEngine/shaders/" DESTINATION shade
 # The weights with their license and notice, which the NVIDIA Open Model Agreement requires to travel with them.
 install(DIRECTORY "${TACTICS_MODEL_DIR}/" DESTINATION models/motionbricks_soma_diffusers
     FILES_MATCHING PATTERN "*.safetensors" PATTERN "*.json" PATTERN "LICENSE" PATTERN "NOTICE")
-install(FILES LICENSES.md DESTINATION .)
+install(FILES LICENSE LICENSES.md DESTINATION .)
 install(FILES "${WICKED_ENGINE_DIR}/LICENSE.txt" DESTINATION licenses RENAME WickedEngine.txt)
